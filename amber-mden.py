@@ -4,7 +4,7 @@
 #                 graphic display
 #                             -------------------
 #    begin                : Wed Jun 3 2004
-#    copyright            : (C) 2004 by Nelson Fonseca 
+#    copyright            : (C) 2004 by Nelson Fonseca
 #    email                : nfonseca@dq.ua.pt
 # ***************************************************************************/
 
